@@ -16,6 +16,7 @@ color: aquamarine
 .header--secondary {
 font-weight: 300;
 font-size: 42px;
+color: white
 }
 .header--sub-header {
   font-size: 21px;
